@@ -1,0 +1,49 @@
+{
+  "url": "https://www.getadmitpath.com",
+  "seedUrls": [
+    "https://www.getadmitpath.com/dashboard",
+    "https://www.getadmitpath.com/onboarding",
+    "https://www.getadmitpath.com/profile/edit",
+    "https://www.getadmitpath.com/wishlist",
+    "https://www.getadmitpath.com/applications",
+    "https://www.getadmitpath.com/essays",
+    "https://www.getadmitpath.com/my-essays",
+    "https://www.getadmitpath.com/explore",
+    "https://www.getadmitpath.com/schedule",
+    "https://www.getadmitpath.com/scholarships",
+    "https://www.getadmitpath.com/chat",
+    "https://www.getadmitpath.com/pricing",
+    "https://www.getadmitpath.com/join",
+    "https://www.getadmitpath.com/privacy",
+    "https://www.getadmitpath.com/terms"
+  ],
+  "authMode": "cookies",
+  "cookies": [
+    {
+      "name": "__session",
+      "value": "eyJhbGciOiJSUzI1NiIsImNhdCI6ImNsX0I3ZDRQRDExMUFBQSIsImtpZCI6Imluc18zQ293UFpXSDJUSGUwZU14QmJOdXJQZWhFeE0iLCJ0eXAiOiJKV1QifQ.eyJhenAiOiJodHRwczovL3d3dy5nZXRhZG1pdHBhdGguY29tIiwiZXhwIjoxNzc3NzMzMDMzLCJmdmEiOlsxOTc4LC0xXSwiaWF0IjoxNzc3NzMyNzMzLCJpc3MiOiJodHRwczovL2NsZXJrLmdldGFkbWl0cGF0aC5jb20iLCJuYmYiOjE3Nzc3MzI3MjMsInNpZCI6InNlc3NfM0Q2c3EzbWhlOE1zZEg2azY2WFJMczlGZ2lnIiwic3RzIjoiYWN0aXZlIiwic3ViIjoidXNlcl8zQ3AweHJQRjZnT2U1T21DeXhDMmo4TmZjYjciLCJ2IjoyfQ.JfTEDzifcWbKN0rWHSIMvRzOM1-VJ2LVToAjAS5iwFvERjE_7ARf-ChtmG8zTnsf9OqAxdQhRI_VP48GLuOqlT5JaTn2YJk96Ed8UZikg9XAKTsWKQUFkbl6jBoE8p0VO66tCL5idHkyD5buhAxnIlLbHgQiSF0RWcRa5gp5e-Bhwf495JhdcnETY4bwNGM-WK85_k7lOuInpAYMr9jTrTya8VXBWcDeBrnYJcmZMejOjT8Y_d_nbCPye6iiNJJJ5Z7VkpmOEiQLHyHM5ovsPeEs0gMbspNMSJKUfXSgTI2OWER9qw-m4lNr3qUXMSvZiviQi7_8bzG5jf-H8oQtqQ",
+      "domain": "www.getadmitpath.com",
+      "path": "/"
+    },
+    {
+      "name": "__client_uat",
+      "value": "1777614041",
+      "domain": ".getadmitpath.com",
+      "path": "/"
+    },
+    {
+      "name": "__client",
+      "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNsaWVudF8zQ3BxWHdGdDBEdzdvZWh1bVRVdGpjWmJtQUIiLCJyb3RhdGluZ190b2tlbiI6IjdodmticnUxcHg1YnE5cjA4OW82cGhreGE1dzd5bHd3aWZuZzc3M2sifQ.slyKf9gw7SeP7D1pHlp5u2BcYfQYoQnXT2abSit8rxnDLGS0vtEONbzS-wEnswORh0JY4M3jCVeVI-nuxehkg6QeZuaJ9XCeUVmXYoevJNVfnuvc17rrg4bwmv73lm0FjOTP0RDElpGRV2NG2rsVhWT6C80NFbeWcu5FXShk8M42Ls4lhpVKEmsgHgai4MHE7dOwO5SmAUa5sSOyfhbuy3sy9tK_uaBZvZ4AkL3bHDg1M71EPknVai7h3_X0Z_oK-I6ZUer18SVolvmhR3gG3I3GfZHpTyHwKNvmfp9mbe52wzp9JMI4h7AClhFaqbnx2xYElbwkNuxxlrXbu6EA4Q",
+      "domain": ".clerk.getadmitpath.com",
+      "path": "/"
+    }
+  ],
+  "clerkEmail": "businessfawcett@gmail.com",
+  "signInUrl": "",
+  "maxDepth": 3,
+  "maxStates": 200,
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  }
+}
